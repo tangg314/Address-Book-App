@@ -1,1 +1,2 @@
-# Calendar-App
+# Address-Book-App
+Terminal based address book application.
